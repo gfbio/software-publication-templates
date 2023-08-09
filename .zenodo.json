@@ -1,35 +1,20 @@
 {
     "creators": [
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
-        },
-        {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "orcid": "0000-0003-4476-6764",
+            "affiliation": "GFBio - German Federation for Biological Data e.V.",
+            "name": "Kostadinov, Ivaylo"
         }
     ],
 
-    "license": "Apache-2.0",
+    "license": "MIT",
 
-    "title": "Red-Dot: ML-powered laser vector detection",
+    "title": "Templates for Publication of Source Code produced by GFBio e.V. employees",
 
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
-        }
-    ],
 
-    "keywords": ["Cats", "Laser", "Behavior"],
+    "keywords": ["Research Software", "Research Data Management", "Biodiversity", "Ecology", "GFBio"],
 
     "communities": [
-        {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
+        {"identifier": "gfbio"}
+    ]
 }
